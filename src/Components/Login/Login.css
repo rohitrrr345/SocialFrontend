@@ -32,7 +32,7 @@
   margin: 2vmax;
   font: 100 1.2rem "Roboto", sans-serif;
   outline: none;
-  color: white;
+  color:black;
 }
 .loginForm > a {
   align-self: flex-end;
